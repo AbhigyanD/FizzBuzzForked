@@ -13,4 +13,3 @@ public class Multiples
         System.out.println("Multiples of 3 or 5 below 1000: " + count);
     }
 }
-
